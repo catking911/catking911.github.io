@@ -1,0 +1,93 @@
+{
+ "1": {
+  "id": 1,
+  "activityGroupID": 100000,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1665878400",
+  "endTimeUTC": "1668297600",
+  "rewardTimes": 7,
+  "rewardData": "item16000#10#0#1#10|item80001#5#0#1#5|item80101#1#0#1#1|item16002#10#0#1#10|item80001#5#0#1#5|item80102#1#0#1#1|item90118#1#0#1#1"
+ },
+ "2": {
+  "id": 2,
+  "activityGroupID": 100001,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1668297600",
+  "endTimeUTC": "1669766400",
+  "rewardTimes": 7,
+  "rewardData": "item16000#10#0#1#10|item80001#5#0#1#5|item80101#1#0#1#1|item16002#10#0#1#10|item80001#5#0#1#5|item80102#1#0#1#1|item90118#1#0#1#1"
+ },
+ "3": {
+  "id": 3,
+  "activityGroupID": 100002,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1669766400",
+  "endTimeUTC": "1671235200",
+  "rewardTimes": 7,
+  "rewardData": "item16000#10#0#1#10|item80001#5#0#1#5|item80101#1#0#1#1|item16002#10#0#1#10|item80001#5#0#1#5|item80102#1#0#1#1|item90118#1#0#1#1"
+ },
+ "4": {
+  "id": 4,
+  "activityGroupID": 100003,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1671235200",
+  "endTimeUTC": "1672272000",
+  "rewardTimes": 7,
+  "rewardData": "item12001#1#0#1#1|item80001#5#0#1#5|item80101#1#0#1#1|item80002#3000#0#1#3000|item80001#5#0#1#5|item80003#100#0#1#100|item80102#1#0#1#1"
+ },
+ "5": {
+  "id": 5,
+  "activityGroupID": 100004,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1672272000",
+  "endTimeUTC": "1673308800",
+  "rewardTimes": 7,
+  "rewardData": "item80002#2000#0#1#2000|item80001#5#0#1#5|item80101#1#0#1#1|item80002#3000#0#1#3000|item80001#5#0#1#5|item80003#100#0#1#100|item80102#1#0#1#1"
+ },
+ "6": {
+  "id": 6,
+  "activityGroupID": 100005,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1673308800",
+  "endTimeUTC": "1674345600",
+  "rewardTimes": 7,
+  "rewardData": "item80002#2000#0#1#2000|item80001#5#0#1#5|item80101#1#0#1#1|item80002#3000#0#1#3000|item80001#5#0#1#5|item80003#100#0#1#100|item80102#1#0#1#1"
+ },
+ "7": {
+  "id": 7,
+  "activityGroupID": 100006,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 1,
+  "openStatus": true,
+  "startTimeUTC": "1674345600",
+  "endTimeUTC": "1675382400",
+  "rewardTimes": 7,
+  "rewardData": "item80002#2000#0#1#2000|item80001#5#0#1#5|item80101#1#0#1#1|item80002#3000#0#1#3000|item80001#5#0#1#5|item80003#100#0#1#100|item80102#1#0#1#1"
+ }
+}
