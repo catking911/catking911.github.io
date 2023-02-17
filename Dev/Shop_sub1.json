@@ -1512,7 +1512,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20001#2",
+  "showReward": "item20002#2",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
@@ -1553,7 +1553,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20002#2",
+  "showReward": "item20003#2",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
@@ -1594,7 +1594,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20004#2",
+  "showReward": "item20005#2",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
@@ -1635,7 +1635,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20005#2",
+  "showReward": "item20006#2",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
