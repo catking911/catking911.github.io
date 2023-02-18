@@ -28,6 +28,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -60,6 +61,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -92,6 +94,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -124,6 +127,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -156,6 +160,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -188,6 +193,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -220,6 +226,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -252,6 +259,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -284,6 +292,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -316,6 +325,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -348,6 +358,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -380,6 +391,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -412,6 +424,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -444,6 +457,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -476,6 +490,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -508,6 +523,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -540,6 +556,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -572,6 +589,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -604,6 +622,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -636,6 +655,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -668,6 +688,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -700,6 +721,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -732,6 +754,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -764,6 +787,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -796,6 +820,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -828,6 +853,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -860,6 +886,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -892,6 +919,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -924,6 +952,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -956,6 +985,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -988,6 +1018,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1020,6 +1051,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1052,6 +1084,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1084,6 +1117,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1116,6 +1150,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1148,6 +1183,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 0
  },
@@ -1181,6 +1217,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1214,6 +1251,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1247,6 +1285,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1280,6 +1319,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1312,6 +1352,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_1",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1344,6 +1385,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_2",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1376,6 +1418,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_3",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1408,6 +1451,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_4",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1440,6 +1484,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_5",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1472,6 +1517,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_6",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1504,6 +1550,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4010_Week_7",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1536,6 +1583,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_1",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1568,6 +1616,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_2",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1600,6 +1649,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_3",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1632,6 +1682,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_4",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1664,6 +1715,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_5",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1696,6 +1748,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_6",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1728,6 +1781,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "DailyBattle_4020_Week_7",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1760,6 +1814,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  },
@@ -1792,6 +1847,7 @@
   ],
   "stageDifficultyRatioTypeID": 3,
   "rankingID": 0,
+  "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1
  }
