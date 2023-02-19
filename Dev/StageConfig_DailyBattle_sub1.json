@@ -1435,7 +1435,7 @@
   "rankingName": "DailyBattle_4010_Week_1",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_1"
  },
  "42": {
@@ -1470,7 +1470,7 @@
   "rankingName": "DailyBattle_4010_Week_2",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_2"
  },
  "43": {
@@ -1505,7 +1505,7 @@
   "rankingName": "DailyBattle_4010_Week_3",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_3"
  },
  "44": {
@@ -1540,7 +1540,7 @@
   "rankingName": "DailyBattle_4010_Week_4",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_4"
  },
  "45": {
@@ -1575,7 +1575,7 @@
   "rankingName": "DailyBattle_4010_Week_5",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_5"
  },
  "46": {
@@ -1610,7 +1610,7 @@
   "rankingName": "DailyBattle_4010_Week_6",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_6"
  },
  "47": {
@@ -1645,7 +1645,7 @@
   "rankingName": "DailyBattle_4010_Week_7",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4010_Week_Group_7"
  },
  "48": {
@@ -1680,7 +1680,7 @@
   "rankingName": "DailyBattle_4020_Week_1",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_1"
  },
  "49": {
@@ -1715,7 +1715,7 @@
   "rankingName": "DailyBattle_4020_Week_2",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_2"
  },
  "50": {
@@ -1750,7 +1750,7 @@
   "rankingName": "DailyBattle_4020_Week_3",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_3"
  },
  "51": {
@@ -1785,7 +1785,7 @@
   "rankingName": "DailyBattle_4020_Week_4",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_4"
  },
  "52": {
@@ -1820,7 +1820,7 @@
   "rankingName": "DailyBattle_4020_Week_5",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_5"
  },
  "53": {
@@ -1855,7 +1855,7 @@
   "rankingName": "DailyBattle_4020_Week_6",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_6"
  },
  "54": {
@@ -1890,7 +1890,7 @@
   "rankingName": "DailyBattle_4020_Week_7",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": "DailyBattle_4020_Week_Group_7"
  },
  "55": {
@@ -1925,7 +1925,7 @@
   "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": ""
  },
  "56": {
@@ -1960,7 +1960,7 @@
   "rankingName": "",
   "heroTypeLimit": 0,
   "heroCountByRank": 1,
-  "rankingSize": 100,
+  "rankingSize": 3,
   "rankingName_Group": ""
  }
 }
