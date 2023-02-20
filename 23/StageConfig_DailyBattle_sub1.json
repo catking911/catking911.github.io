@@ -30,7 +30,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "2": {
   "id": 2,
@@ -63,7 +65,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "3": {
   "id": 3,
@@ -96,7 +100,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "4": {
   "id": 4,
@@ -129,7 +135,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "5": {
   "id": 5,
@@ -162,7 +170,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "6": {
   "id": 6,
@@ -195,7 +205,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "7": {
   "id": 7,
@@ -228,7 +240,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "8": {
   "id": 8,
@@ -261,7 +275,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "9": {
   "id": 9,
@@ -294,7 +310,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "10": {
   "id": 10,
@@ -327,7 +345,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "11": {
   "id": 11,
@@ -360,7 +380,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "12": {
   "id": 12,
@@ -393,7 +415,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "13": {
   "id": 13,
@@ -426,7 +450,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "14": {
   "id": 14,
@@ -459,7 +485,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "15": {
   "id": 15,
@@ -492,7 +520,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "16": {
   "id": 16,
@@ -525,7 +555,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "17": {
   "id": 17,
@@ -558,7 +590,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "18": {
   "id": 18,
@@ -591,7 +625,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "19": {
   "id": 19,
@@ -624,7 +660,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "20": {
   "id": 20,
@@ -657,7 +695,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "21": {
   "id": 21,
@@ -690,7 +730,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "22": {
   "id": 22,
@@ -723,7 +765,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "23": {
   "id": 23,
@@ -756,7 +800,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "24": {
   "id": 24,
@@ -789,7 +835,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "25": {
   "id": 25,
@@ -822,7 +870,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "26": {
   "id": 26,
@@ -855,7 +905,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "27": {
   "id": 27,
@@ -888,7 +940,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "28": {
   "id": 28,
@@ -921,7 +975,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "29": {
   "id": 29,
@@ -954,7 +1010,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "30": {
   "id": 30,
@@ -987,7 +1045,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "31": {
   "id": 31,
@@ -1020,7 +1080,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "32": {
   "id": 32,
@@ -1053,7 +1115,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "33": {
   "id": 33,
@@ -1086,7 +1150,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "34": {
   "id": 34,
@@ -1119,7 +1185,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "35": {
   "id": 35,
@@ -1152,7 +1220,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "36": {
   "id": 36,
@@ -1185,7 +1255,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 0
+  "heroCountByRank": 0,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "37": {
   "id": 37,
@@ -1219,7 +1291,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "38": {
   "id": 38,
@@ -1253,7 +1327,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "39": {
   "id": 39,
@@ -1287,7 +1363,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "40": {
   "id": 40,
@@ -1321,7 +1399,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 0,
+  "rankingName_Group": ""
  },
  "41": {
   "id": 41,
@@ -1354,7 +1434,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_1",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_1_Group"
  },
  "42": {
   "id": 42,
@@ -1387,7 +1469,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_2",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_2_Group"
  },
  "43": {
   "id": 43,
@@ -1420,7 +1504,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_3",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_3_Group"
  },
  "44": {
   "id": 44,
@@ -1453,7 +1539,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_4",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_4_Group"
  },
  "45": {
   "id": 45,
@@ -1486,7 +1574,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_5",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_5_Group"
  },
  "46": {
   "id": 46,
@@ -1519,7 +1609,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_6",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_6_Group"
  },
  "47": {
   "id": 47,
@@ -1552,7 +1644,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4010_Week_7",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4010_Week_7_Group"
  },
  "48": {
   "id": 48,
@@ -1585,7 +1679,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_1",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_1_Group"
  },
  "49": {
   "id": 49,
@@ -1618,7 +1714,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_2",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_2_Group"
  },
  "50": {
   "id": 50,
@@ -1651,7 +1749,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_3",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_3_Group"
  },
  "51": {
   "id": 51,
@@ -1684,7 +1784,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_4",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_4_Group"
  },
  "52": {
   "id": 52,
@@ -1717,7 +1819,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_5",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_5_Group"
  },
  "53": {
   "id": 53,
@@ -1750,7 +1854,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_6",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_6_Group"
  },
  "54": {
   "id": 54,
@@ -1783,7 +1889,9 @@
   "rankingID": 0,
   "rankingName": "DailyBattle_4020_Week_7",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": "DailyBattle_4020_Week_7_Group"
  },
  "55": {
   "id": 55,
@@ -1816,7 +1924,9 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": ""
  },
  "56": {
   "id": 56,
@@ -1849,6 +1959,8 @@
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
-  "heroCountByRank": 1
+  "heroCountByRank": 1,
+  "rankingSize": 3,
+  "rankingName_Group": ""
  }
 }
