@@ -1287,7 +1287,7 @@
    6,
    10
   ],
-  "stageDifficultyRatioTypeID": 3,
+  "stageDifficultyRatioTypeID": 5,
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
@@ -1323,7 +1323,7 @@
    6,
    10
   ],
-  "stageDifficultyRatioTypeID": 3,
+  "stageDifficultyRatioTypeID": 5,
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
@@ -1359,7 +1359,7 @@
    6,
    10
   ],
-  "stageDifficultyRatioTypeID": 3,
+  "stageDifficultyRatioTypeID": 5,
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
@@ -1395,7 +1395,7 @@
    6,
    10
   ],
-  "stageDifficultyRatioTypeID": 3,
+  "stageDifficultyRatioTypeID": 5,
   "rankingID": 0,
   "rankingName": "",
   "heroTypeLimit": 0,
