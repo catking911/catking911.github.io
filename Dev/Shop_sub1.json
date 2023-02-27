@@ -1163,7 +1163,7 @@
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
   "shopGroupWidth": 900.0,
-  "sort": 600,
+  "sort": 602,
   "shopItemID": 100901,
   "title": "^Shop_GoodsName_StagePack_2",
   "des": "",
@@ -1186,7 +1186,7 @@
   "rewardItemCount2": null,
   "showReward": "item80002#15000|item80003#1200|item80006#3|item80102#2",
   "showRewardIcon": "",
-  "shopItemValue": "x5"
+  "shopItemValue": "x4"
  },
  "30": {
   "id": 30,
@@ -1204,7 +1204,7 @@
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
   "shopGroupWidth": 900.0,
-  "sort": 600,
+  "sort": 603,
   "shopItemID": 100902,
   "title": "^Shop_GoodsName_StagePack_3",
   "des": "",
@@ -1225,9 +1225,9 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80003#2000|item80006#7|item80102#5|item16000#10|item16002#10",
+  "showReward": "item80003#2000|item80006#7|item80102#5|item90202#20",
   "showRewardIcon": "",
-  "shopItemValue": "x5"
+  "shopItemValue": "x4"
  },
  "31": {
   "id": 31,
@@ -1245,7 +1245,7 @@
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
   "shopGroupWidth": 900.0,
-  "sort": 600,
+  "sort": 604,
   "shopItemID": 100903,
   "title": "^Shop_GoodsName_StagePack_4",
   "des": "",
@@ -1266,9 +1266,9 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80003#2000|item80006#7|item80102#5|item16001#15|item16002#15",
+  "showReward": "item80003#2000|item80006#7|item80102#5|item90202#30",
   "showRewardIcon": "",
-  "shopItemValue": "x5"
+  "shopItemValue": "x4"
  },
  "32": {
   "id": 32,
@@ -1286,7 +1286,7 @@
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
   "shopGroupWidth": 900.0,
-  "sort": 600,
+  "sort": 605,
   "shopItemID": 100904,
   "title": "^Shop_GoodsName_StagePack_5",
   "des": "",
@@ -1307,12 +1307,217 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80003#2000|item90112#1|item90112#1|item90113#1|item16000#20",
+  "showReward": "item80003#2000|item90112#1|item90112#1|item90113#1|item90202#30",
   "showRewardIcon": "",
-  "shopItemValue": "x5"
+  "shopItemValue": "x4"
  },
  "33": {
   "id": 33,
+  "shopGroupID": 100905,
+  "shopType": 1,
+  "shopGroupName": "^Shop_GoodsName_2",
+  "shopGroupNameBGType": 3,
+  "shopGroupType": 1,
+  "openStatus": true,
+  "openType": 4,
+  "openByLevel": 1,
+  "openByChapter": 5,
+  "onceGiftTime": 2592000,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 900.0,
+  "sort": 606,
+  "shopItemID": 100905,
+  "title": "^Shop_GoodsName_StagePack_6",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item80003#2000|item80102#6|item90113#1|item90113#1|item90202#40",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "34": {
+  "id": 34,
+  "shopGroupID": 100906,
+  "shopType": 1,
+  "shopGroupName": "^Shop_GoodsName_2",
+  "shopGroupNameBGType": 3,
+  "shopGroupType": 1,
+  "openStatus": false,
+  "openType": 4,
+  "openByLevel": 1,
+  "openByChapter": 6,
+  "onceGiftTime": 2592000,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 900.0,
+  "sort": 607,
+  "shopItemID": 100906,
+  "title": "^Shop_GoodsName_StagePack_7",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item80006#5|item80102#8|item90113#1|item90113#1|item90202#50",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "35": {
+  "id": 35,
+  "shopGroupID": 100907,
+  "shopType": 1,
+  "shopGroupName": "^Shop_GoodsName_2",
+  "shopGroupNameBGType": 3,
+  "shopGroupType": 1,
+  "openStatus": false,
+  "openType": 4,
+  "openByLevel": 1,
+  "openByChapter": 7,
+  "onceGiftTime": 2592000,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 900.0,
+  "sort": 608,
+  "shopItemID": 100907,
+  "title": "^Shop_GoodsName_StagePack_8",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "0",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "36": {
+  "id": 36,
+  "shopGroupID": 100908,
+  "shopType": 1,
+  "shopGroupName": "^Shop_GoodsName_2",
+  "shopGroupNameBGType": 3,
+  "shopGroupType": 1,
+  "openStatus": false,
+  "openType": 4,
+  "openByLevel": 1,
+  "openByChapter": 8,
+  "onceGiftTime": 2592000,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 900.0,
+  "sort": 609,
+  "shopItemID": 100908,
+  "title": "^Shop_GoodsName_StagePack_9",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "0",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "37": {
+  "id": 37,
+  "shopGroupID": 100909,
+  "shopType": 1,
+  "shopGroupName": "^Shop_GoodsName_2",
+  "shopGroupNameBGType": 3,
+  "shopGroupType": 1,
+  "openStatus": false,
+  "openType": 4,
+  "openByLevel": 1,
+  "openByChapter": 9,
+  "onceGiftTime": 2592000,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 900.0,
+  "sort": 610,
+  "shopItemID": 100909,
+  "title": "^Shop_GoodsName_StagePack_10",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "0",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "38": {
+  "id": 38,
   "shopGroupID": 101001,
   "shopType": 1,
   "shopGroupName": "^Shop_GoodsName_12",
@@ -1352,8 +1557,8 @@
   "showRewardIcon": "weapon1004",
   "shopItemValue": "x20"
  },
- "34": {
-  "id": 34,
+ "39": {
+  "id": 39,
   "shopGroupID": 101002,
   "shopType": 1,
   "shopGroupName": "^Shop_GoodsName_13",
@@ -1393,8 +1598,8 @@
   "showRewardIcon": "Shop_NinjaWhite",
   "shopItemValue": "x10"
  },
- "35": {
-  "id": 35,
+ "40": {
+  "id": 40,
   "shopGroupID": 101003,
   "shopType": 1,
   "shopGroupName": "^Shop_GoodsName_14",
@@ -1434,8 +1639,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "36": {
-  "id": 36,
+ "41": {
+  "id": 41,
   "shopGroupID": 101004,
   "shopType": 1,
   "shopGroupName": "^Shop_GoodsName_14",
@@ -1475,8 +1680,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "37": {
-  "id": 37,
+ "42": {
+  "id": 42,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
@@ -1516,8 +1721,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "38": {
-  "id": 38,
+ "43": {
+  "id": 43,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
@@ -1557,8 +1762,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "39": {
-  "id": 39,
+ "44": {
+  "id": 44,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
@@ -1598,8 +1803,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "40": {
-  "id": 40,
+ "45": {
+  "id": 45,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
@@ -1639,8 +1844,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "41": {
-  "id": 41,
+ "46": {
+  "id": 46,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1680,8 +1885,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "42": {
-  "id": 42,
+ "47": {
+  "id": 47,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1721,8 +1926,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "43": {
-  "id": 43,
+ "48": {
+  "id": 48,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1762,8 +1967,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "44": {
-  "id": 44,
+ "49": {
+  "id": 49,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1803,8 +2008,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "45": {
-  "id": 45,
+ "50": {
+  "id": 50,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1844,8 +2049,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "46": {
-  "id": 46,
+ "51": {
+  "id": 51,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Equipments",
@@ -1885,8 +2090,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "47": {
-  "id": 47,
+ "52": {
+  "id": 52,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Resources",
@@ -1926,8 +2131,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "48": {
-  "id": 48,
+ "53": {
+  "id": 53,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Resources",
@@ -1967,8 +2172,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "49": {
-  "id": 49,
+ "54": {
+  "id": 54,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Resources",
@@ -2008,8 +2213,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "50": {
-  "id": 50,
+ "55": {
+  "id": 55,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupName": "^Shop_Endless_Tag_Name_Resources",
