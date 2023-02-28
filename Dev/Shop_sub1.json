@@ -1733,7 +1733,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1775,7 +1775,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1817,7 +1817,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1859,7 +1859,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1901,7 +1901,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1933,6 +1933,48 @@
  },
  "47": {
   "id": 47,
+  "shopGroupID": 101151,
+  "shopType": 1,
+  "shopGroupType": 8,
+  "shopGroupName": "^Shop_GoodsName_14",
+  "shopGroupNameBGType": 3,
+  "shopGroupShowType": 1,
+  "openStatus": true,
+  "openType": 5,
+  "openByLevel": 5,
+  "openByChapter": 1,
+  "onceGiftTime": 172800,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 760.0,
+  "sort": 890,
+  "shopItemID": 101151,
+  "title": "^Shop_Gift_Upgrade_Title_7",
+  "des": "^Shop_Gift_Upgrade_Des_1_7",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.19.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "0",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "48": {
+  "id": 48,
   "shopGroupID": 101201,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1943,7 +1985,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -1973,8 +2015,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "48": {
-  "id": 48,
+ "49": {
+  "id": 49,
   "shopGroupID": 101211,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1985,7 +2027,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2015,8 +2057,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "49": {
-  "id": 49,
+ "50": {
+  "id": 50,
   "shopGroupID": 101221,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2027,7 +2069,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2057,8 +2099,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "50": {
-  "id": 50,
+ "51": {
+  "id": 51,
   "shopGroupID": 101231,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2069,7 +2111,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2099,8 +2141,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "51": {
-  "id": 51,
+ "52": {
+  "id": 52,
   "shopGroupID": 101241,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2111,7 +2153,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2141,8 +2183,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "52": {
-  "id": 52,
+ "53": {
+  "id": 53,
   "shopGroupID": 101301,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2153,7 +2195,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2183,8 +2225,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "53": {
-  "id": 53,
+ "54": {
+  "id": 54,
   "shopGroupID": 101311,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2195,7 +2237,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2225,8 +2267,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "54": {
-  "id": 54,
+ "55": {
+  "id": 55,
   "shopGroupID": 101321,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2237,7 +2279,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2267,8 +2309,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "55": {
-  "id": 55,
+ "56": {
+  "id": 56,
   "shopGroupID": 101331,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2279,7 +2321,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2309,8 +2351,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "56": {
-  "id": 56,
+ "57": {
+  "id": 57,
   "shopGroupID": 101341,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2321,7 +2363,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2351,8 +2393,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "57": {
-  "id": 57,
+ "58": {
+  "id": 58,
   "shopGroupID": 101401,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2363,7 +2405,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2379,7 +2421,7 @@
   "prefab": "Shop_Gift_2",
   "colorBG": 3,
   "costGems": null,
-  "cost": "com.zymobile.soulninja.gp.gift.19.99",
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
   "costItemID": "",
   "costItemCount": null,
   "costFreeCD": 0,
@@ -2389,12 +2431,12 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80002#50000|item20001#3|item21001#275",
+  "showReward": "item80002#1200000|item21009#40|item21000#500",
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "58": {
-  "id": 58,
+ "59": {
+  "id": 59,
   "shopGroupID": 101411,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2405,7 +2447,7 @@
   "openType": 5,
   "openByLevel": 5,
   "openByChapter": 1,
-  "onceGiftTime": 2592000,
+  "onceGiftTime": 172800,
   "startTimeUTC": "0",
   "endTimeUTC": "0",
   "shopGroupWidthType": 1.0,
@@ -2421,7 +2463,7 @@
   "prefab": "Shop_Gift_2",
   "colorBG": 3,
   "costGems": null,
-  "cost": "com.zymobile.soulninja.gp.gift.19.99",
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
   "costItemID": "",
   "costItemCount": null,
   "costFreeCD": 0,
@@ -2431,12 +2473,138 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80002#50000|item20002#3|item21003#275",
+  "showReward": "item80002#1200000|item21009#40|item21001#500",
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "59": {
-  "id": 59,
+ "60": {
+  "id": 60,
+  "shopGroupID": 101421,
+  "shopType": 1,
+  "shopGroupType": 8,
+  "shopGroupName": "^Shop_GoodsName_14",
+  "shopGroupNameBGType": 3,
+  "shopGroupShowType": 1,
+  "openStatus": true,
+  "openType": 5,
+  "openByLevel": 5,
+  "openByChapter": 1,
+  "onceGiftTime": 172800,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 760.0,
+  "sort": 890,
+  "shopItemID": 101421,
+  "title": "^Shop_Gift_Upgrade_Title_7",
+  "des": "^Shop_Gift_Upgrade_Des_1_7",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item80002#1200000|item21009#40|item21003#500",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "61": {
+  "id": 61,
+  "shopGroupID": 101431,
+  "shopType": 1,
+  "shopGroupType": 8,
+  "shopGroupName": "^Shop_GoodsName_14",
+  "shopGroupNameBGType": 3,
+  "shopGroupShowType": 1,
+  "openStatus": true,
+  "openType": 5,
+  "openByLevel": 5,
+  "openByChapter": 1,
+  "onceGiftTime": 172800,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 760.0,
+  "sort": 890,
+  "shopItemID": 101431,
+  "title": "^Shop_Gift_Upgrade_Title_7",
+  "des": "^Shop_Gift_Upgrade_Des_1_7",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item80002#1200000|item21009#40|item21002#500",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "62": {
+  "id": 62,
+  "shopGroupID": 101441,
+  "shopType": 1,
+  "shopGroupType": 8,
+  "shopGroupName": "^Shop_GoodsName_14",
+  "shopGroupNameBGType": 3,
+  "shopGroupShowType": 1,
+  "openStatus": true,
+  "openType": 5,
+  "openByLevel": 5,
+  "openByChapter": 1,
+  "onceGiftTime": 172800,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 1.0,
+  "shopGroupWidth": 760.0,
+  "sort": 890,
+  "shopItemID": 101441,
+  "title": "^Shop_Gift_Upgrade_Title_7",
+  "des": "^Shop_Gift_Upgrade_Des_1_7",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 7,
+  "prefab": "Shop_Gift_2",
+  "colorBG": 3,
+  "costGems": null,
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item80002#1200000|item21009#40|item21004#500",
+  "showRewardIcon": "",
+  "shopItemValue": "x4"
+ },
+ "63": {
+  "id": 63,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2477,8 +2645,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "60": {
-  "id": 60,
+ "64": {
+  "id": 64,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2519,8 +2687,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "61": {
-  "id": 61,
+ "65": {
+  "id": 65,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2561,8 +2729,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "62": {
-  "id": 62,
+ "66": {
+  "id": 66,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2603,8 +2771,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "63": {
-  "id": 63,
+ "67": {
+  "id": 67,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2645,8 +2813,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "64": {
-  "id": 64,
+ "68": {
+  "id": 68,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2687,8 +2855,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "65": {
-  "id": 65,
+ "69": {
+  "id": 69,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2729,8 +2897,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "66": {
-  "id": 66,
+ "70": {
+  "id": 70,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2771,8 +2939,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "67": {
-  "id": 67,
+ "71": {
+  "id": 71,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2813,8 +2981,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "68": {
-  "id": 68,
+ "72": {
+  "id": 72,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2855,8 +3023,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "69": {
-  "id": 69,
+ "73": {
+  "id": 73,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2897,8 +3065,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "70": {
-  "id": 70,
+ "74": {
+  "id": 74,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2939,8 +3107,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "71": {
-  "id": 71,
+ "75": {
+  "id": 75,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2981,8 +3149,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "72": {
-  "id": 72,
+ "76": {
+  "id": 76,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
