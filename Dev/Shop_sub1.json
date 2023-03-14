@@ -867,7 +867,7 @@
   "prefab": "Shop_Gift_2",
   "colorBG": 2,
   "costGems": null,
-  "cost": "com.zymobile.soulninja.gp.gift.19.99",
+  "cost": "com.zymobile.soulninja.gp.gift.29.99",
   "costItemID": "",
   "costItemCount": null,
   "costFreeCD": 0,
@@ -877,7 +877,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80101#10|item80102#10|item80111#10",
+  "showReward": "item80101#10|item80102#10|item80111#10|item80006#10",
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
@@ -919,7 +919,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item80101#55|item80102#55|item80111#55",
+  "showReward": "item80101#50|item80102#50|item80111#50",
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
