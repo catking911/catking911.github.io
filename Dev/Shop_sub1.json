@@ -2725,7 +2725,7 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20002#2",
+  "showReward": "item20005#1",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
@@ -2767,12 +2767,96 @@
   "rewardByTimes": null,
   "rewardItemID2": "",
   "rewardItemCount2": null,
-  "showReward": "item20004#2",
+  "showReward": "item20002#2",
   "showRewardIcon": "",
   "shopItemValue": ""
  },
  "67": {
   "id": 67,
+  "shopGroupID": 400100,
+  "shopType": 2,
+  "shopGroupType": 20,
+  "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
+  "shopGroupNameBGType": 0,
+  "shopGroupShowType": 3,
+  "openStatus": true,
+  "openType": 1,
+  "openByLevel": 1,
+  "openByChapter": 0,
+  "onceGiftTime": 0,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 0.0,
+  "shopGroupWidth": 730.0,
+  "sort": 9,
+  "shopItemID": 400105,
+  "title": "\u65e0\u5c3d\u4e4b\u5854-\u5546\u5e97-\u82f1\u96c43",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 101,
+  "prefab": "Shop_Item",
+  "colorBG": 0,
+  "costGems": null,
+  "cost": "0",
+  "costItemID": "item80008",
+  "costItemCount": 2500,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item20004#2",
+  "showRewardIcon": "",
+  "shopItemValue": ""
+ },
+ "68": {
+  "id": 68,
+  "shopGroupID": 400100,
+  "shopType": 2,
+  "shopGroupType": 20,
+  "shopGroupName": "^Shop_Endless_Tag_Name_Heros",
+  "shopGroupNameBGType": 0,
+  "shopGroupShowType": 3,
+  "openStatus": true,
+  "openType": 1,
+  "openByLevel": 1,
+  "openByChapter": 0,
+  "onceGiftTime": 0,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 0.0,
+  "shopGroupWidth": 730.0,
+  "sort": 9,
+  "shopItemID": 400106,
+  "title": "\u65e0\u5c3d\u4e4b\u5854-\u5546\u5e97-\u82f1\u96c44",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 1,
+  "type": 101,
+  "prefab": "Shop_Item",
+  "colorBG": 0,
+  "costGems": null,
+  "cost": "0",
+  "costItemID": "item80008",
+  "costItemCount": 2500,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "",
+  "rewardItemCount": null,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "item20005#2",
+  "showRewardIcon": "",
+  "shopItemValue": ""
+ },
+ "69": {
+  "id": 69,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2813,8 +2897,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "68": {
-  "id": 68,
+ "70": {
+  "id": 70,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2855,8 +2939,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "69": {
-  "id": 69,
+ "71": {
+  "id": 71,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2897,8 +2981,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "70": {
-  "id": 70,
+ "72": {
+  "id": 72,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2939,8 +3023,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "71": {
-  "id": 71,
+ "73": {
+  "id": 73,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2981,8 +3065,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "72": {
-  "id": 72,
+ "74": {
+  "id": 74,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3023,8 +3107,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "73": {
-  "id": 73,
+ "75": {
+  "id": 75,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3065,8 +3149,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "74": {
-  "id": 74,
+ "76": {
+  "id": 76,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3107,8 +3191,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "75": {
-  "id": 75,
+ "77": {
+  "id": 77,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3149,8 +3233,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "76": {
-  "id": 76,
+ "78": {
+  "id": 78,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
