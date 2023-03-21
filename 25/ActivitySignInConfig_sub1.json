@@ -89,5 +89,57 @@
   "endTimeUTC": "1680048000",
   "rewardTimes": 7,
   "rewardData": "item80002#1000#0#1#1000|item90202#10#0#1#10|item80101#1#0#1#1|item80002#2000#0#1#2000|item90202#20#0#1#20|item80002#3000#0#1#3000|item80102#1#0#1#1"
+ },
+ "8": {
+  "id": 8,
+  "activityGroupID": 100007,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 2,
+  "openStatus": true,
+  "startTimeUTC": "1680048000",
+  "endTimeUTC": "1680912000",
+  "rewardTimes": 7,
+  "rewardData": "item80002#1000#0#1#1000|item90202#10#0#1#10|item80101#1#0#1#1|item80002#2000#0#1#2000|item90202#20#0#1#20|item80002#3000#0#1#3000|item80102#1#0#1#1"
+ },
+ "9": {
+  "id": 9,
+  "activityGroupID": 100008,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 2,
+  "openStatus": true,
+  "startTimeUTC": "1680912000",
+  "endTimeUTC": "1681776000",
+  "rewardTimes": 7,
+  "rewardData": "item80002#1000#0#1#1000|item90202#10#0#1#10|item80101#1#0#1#1|item80002#2000#0#1#2000|item90202#20#0#1#20|item80002#3000#0#1#3000|item80102#1#0#1#1"
+ },
+ "10": {
+  "id": 10,
+  "activityGroupID": 100009,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 2,
+  "openStatus": true,
+  "startTimeUTC": "1681776000",
+  "endTimeUTC": "1682640000",
+  "rewardTimes": 7,
+  "rewardData": "item80002#1000#0#1#1000|item90202#10#0#1#10|item80101#1#0#1#1|item80002#2000#0#1#2000|item90202#20#0#1#20|item80002#3000#0#1#3000|item80102#1#0#1#1"
+ },
+ "11": {
+  "id": 11,
+  "activityGroupID": 100010,
+  "activityGroupName": "^Popup_ActivitySignIn_Title_1",
+  "activityGroupDes": "^Popup_ActivitySignIn_Des_1",
+  "activityGroupNameBGType": 2,
+  "activityGroupType": 2,
+  "openStatus": true,
+  "startTimeUTC": "1682640000",
+  "endTimeUTC": "1683504000",
+  "rewardTimes": 7,
+  "rewardData": "item80002#1000#0#1#1000|item90202#10#0#1#10|item80101#1#0#1#1|item80002#2000#0#1#2000|item90202#20#0#1#20|item80002#3000#0#1#3000|item80102#1#0#1#1"
  }
 }
