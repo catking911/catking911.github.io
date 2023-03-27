@@ -441,7 +441,7 @@
   "title": "^Shop_Hero_1_Title",
   "des": "^Shop_Hero_1_Des1",
   "des2": "",
-  "ADTimes": 1,
+  "ADTimes": 3,
   "saleTimes": 0,
   "type": 5,
   "prefab": "Shop_Hero_1",
