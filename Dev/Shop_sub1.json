@@ -169,6 +169,90 @@
  },
  "5": {
   "id": 5,
+  "shopGroupID": 100101,
+  "shopType": 1,
+  "shopGroupType": 1,
+  "shopGroupName": "^Shop_Group_Name_1",
+  "shopGroupNameBGType": 0,
+  "shopGroupShowType": 2,
+  "openStatus": true,
+  "openType": 1,
+  "openByLevel": 1,
+  "openByChapter": 0,
+  "onceGiftTime": 0,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 0.0,
+  "shopGroupWidth": 440.0,
+  "sort": 10,
+  "shopItemID": 100998,
+  "title": "\u6218\u6597\u901a\u884c\u8bc1",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 0,
+  "type": 1,
+  "prefab": "Shop_Gold_3",
+  "colorBG": 0,
+  "costGems": 300,
+  "cost": "0",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "item80002",
+  "rewardItemCount": 15000,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "",
+  "showRewardIcon": "",
+  "shopItemValue": ""
+ },
+ "6": {
+  "id": 6,
+  "shopGroupID": 100101,
+  "shopType": 1,
+  "shopGroupType": 1,
+  "shopGroupName": "^Shop_Group_Name_1",
+  "shopGroupNameBGType": 0,
+  "shopGroupShowType": 2,
+  "openStatus": true,
+  "openType": 1,
+  "openByLevel": 1,
+  "openByChapter": 0,
+  "onceGiftTime": 0,
+  "startTimeUTC": "0",
+  "endTimeUTC": "0",
+  "shopGroupWidthType": 0.0,
+  "shopGroupWidth": 440.0,
+  "sort": 10,
+  "shopItemID": 100999,
+  "title": "\u8d85\u7ea7\u901a\u884c\u8bc1",
+  "des": "",
+  "des2": "",
+  "ADTimes": 0,
+  "saleTimes": 0,
+  "type": 1,
+  "prefab": "Shop_Gold_4",
+  "colorBG": 0,
+  "costGems": 1000,
+  "cost": "0",
+  "costItemID": "",
+  "costItemCount": null,
+  "costFreeCD": 0,
+  "freeCDIsSpeedUp": 0,
+  "rewardItemID": "item80002",
+  "rewardItemCount": 85000,
+  "rewardByTimes": null,
+  "rewardItemID2": "",
+  "rewardItemCount2": null,
+  "showReward": "",
+  "showRewardIcon": "",
+  "shopItemValue": ""
+ },
+ "7": {
+  "id": 7,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -209,8 +293,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "6": {
-  "id": 6,
+ "8": {
+  "id": 8,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -251,8 +335,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "7": {
-  "id": 7,
+ "9": {
+  "id": 9,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -293,8 +377,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "8": {
-  "id": 8,
+ "10": {
+  "id": 10,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -335,8 +419,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "9": {
-  "id": 9,
+ "11": {
+  "id": 11,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -377,8 +461,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "10": {
-  "id": 10,
+ "12": {
+  "id": 12,
   "shopGroupID": 100200,
   "shopType": 1,
   "shopGroupType": 2,
@@ -419,8 +503,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "11": {
-  "id": 11,
+ "13": {
+  "id": 13,
   "shopGroupID": 100300,
   "shopType": 1,
   "shopGroupType": 3,
@@ -461,8 +545,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "12": {
-  "id": 12,
+ "14": {
+  "id": 14,
   "shopGroupID": 100300,
   "shopType": 1,
   "shopGroupType": 3,
@@ -503,8 +587,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "13": {
-  "id": 13,
+ "15": {
+  "id": 15,
   "shopGroupID": 100400,
   "shopType": 1,
   "shopGroupType": 4,
@@ -545,8 +629,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "14": {
-  "id": 14,
+ "16": {
+  "id": 16,
   "shopGroupID": 100400,
   "shopType": 1,
   "shopGroupType": 4,
@@ -587,8 +671,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "15": {
-  "id": 15,
+ "17": {
+  "id": 17,
   "shopGroupID": 100500,
   "shopType": 1,
   "shopGroupType": 5,
@@ -629,8 +713,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "16": {
-  "id": 16,
+ "18": {
+  "id": 18,
   "shopGroupID": 100600,
   "shopType": 1,
   "shopGroupType": 9,
@@ -671,8 +755,8 @@
   "showRewardIcon": "Shop_NinjaBlack",
   "shopItemValue": ""
  },
- "17": {
-  "id": 17,
+ "19": {
+  "id": 19,
   "shopGroupID": 100600,
   "shopType": 1,
   "shopGroupType": 9,
@@ -713,8 +797,8 @@
   "showRewardIcon": "Shop_NinjaBlack",
   "shopItemValue": ""
  },
- "18": {
-  "id": 18,
+ "20": {
+  "id": 20,
   "shopGroupID": 100600,
   "shopType": 1,
   "shopGroupType": 9,
@@ -755,8 +839,8 @@
   "showRewardIcon": "Shop_NinjaMask",
   "shopItemValue": ""
  },
- "19": {
-  "id": 19,
+ "21": {
+  "id": 21,
   "shopGroupID": 100600,
   "shopType": 1,
   "shopGroupType": 9,
@@ -797,8 +881,8 @@
   "showRewardIcon": "Shop_NinjaMask",
   "shopItemValue": ""
  },
- "20": {
-  "id": 20,
+ "22": {
+  "id": 22,
   "shopGroupID": 100701,
   "shopType": 1,
   "shopGroupType": 10,
@@ -839,8 +923,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
- "21": {
-  "id": 21,
+ "23": {
+  "id": 23,
   "shopGroupID": 100702,
   "shopType": 1,
   "shopGroupType": 10,
@@ -881,8 +965,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
- "22": {
-  "id": 22,
+ "24": {
+  "id": 24,
   "shopGroupID": 100703,
   "shopType": 1,
   "shopGroupType": 10,
@@ -923,8 +1007,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
- "23": {
-  "id": 23,
+ "25": {
+  "id": 25,
   "shopGroupID": 100704,
   "shopType": 1,
   "shopGroupType": 10,
@@ -965,8 +1049,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
- "24": {
-  "id": 24,
+ "26": {
+  "id": 26,
   "shopGroupID": 100705,
   "shopType": 1,
   "shopGroupType": 10,
@@ -1007,8 +1091,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x3"
  },
- "25": {
-  "id": 25,
+ "27": {
+  "id": 27,
   "shopGroupID": 100706,
   "shopType": 1,
   "shopGroupType": 10,
@@ -1049,8 +1133,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x5"
  },
- "26": {
-  "id": 26,
+ "28": {
+  "id": 28,
   "shopGroupID": 100707,
   "shopType": 1,
   "shopGroupType": 10,
@@ -1091,8 +1175,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x5"
  },
- "27": {
-  "id": 27,
+ "29": {
+  "id": 29,
   "shopGroupID": 100708,
   "shopType": 1,
   "shopGroupType": 10,
@@ -1133,8 +1217,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x5"
  },
- "28": {
-  "id": 28,
+ "30": {
+  "id": 30,
   "shopGroupID": 100800,
   "shopType": 1,
   "shopGroupType": 6,
@@ -1175,8 +1259,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "29": {
-  "id": 29,
+ "31": {
+  "id": 31,
   "shopGroupID": 100901,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1217,8 +1301,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "30": {
-  "id": 30,
+ "32": {
+  "id": 32,
   "shopGroupID": 100902,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1259,8 +1343,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "31": {
-  "id": 31,
+ "33": {
+  "id": 33,
   "shopGroupID": 100903,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1301,8 +1385,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "32": {
-  "id": 32,
+ "34": {
+  "id": 34,
   "shopGroupID": 100904,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1343,8 +1427,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "33": {
-  "id": 33,
+ "35": {
+  "id": 35,
   "shopGroupID": 100905,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1385,8 +1469,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "34": {
-  "id": 34,
+ "36": {
+  "id": 36,
   "shopGroupID": 100906,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1427,8 +1511,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "35": {
-  "id": 35,
+ "37": {
+  "id": 37,
   "shopGroupID": 100907,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1469,8 +1553,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "36": {
-  "id": 36,
+ "38": {
+  "id": 38,
   "shopGroupID": 100908,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1511,8 +1595,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "37": {
-  "id": 37,
+ "39": {
+  "id": 39,
   "shopGroupID": 100909,
   "shopType": 1,
   "shopGroupType": 7,
@@ -1553,8 +1637,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "38": {
-  "id": 38,
+ "40": {
+  "id": 40,
   "shopGroupID": 101001,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1595,8 +1679,8 @@
   "showRewardIcon": "weapon1004",
   "shopItemValue": "x20"
  },
- "39": {
-  "id": 39,
+ "41": {
+  "id": 41,
   "shopGroupID": 101002,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1637,8 +1721,8 @@
   "showRewardIcon": "Shop_NinjaWhite",
   "shopItemValue": "x10"
  },
- "40": {
-  "id": 40,
+ "42": {
+  "id": 42,
   "shopGroupID": 101003,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1679,8 +1763,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "41": {
-  "id": 41,
+ "43": {
+  "id": 43,
   "shopGroupID": 101004,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1721,8 +1805,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "42": {
-  "id": 42,
+ "44": {
+  "id": 44,
   "shopGroupID": 101101,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1763,8 +1847,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "43": {
-  "id": 43,
+ "45": {
+  "id": 45,
   "shopGroupID": 101111,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1805,8 +1889,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "44": {
-  "id": 44,
+ "46": {
+  "id": 46,
   "shopGroupID": 101121,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1847,8 +1931,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "45": {
-  "id": 45,
+ "47": {
+  "id": 47,
   "shopGroupID": 101131,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1889,8 +1973,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "46": {
-  "id": 46,
+ "48": {
+  "id": 48,
   "shopGroupID": 101141,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1931,8 +2015,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "47": {
-  "id": 47,
+ "49": {
+  "id": 49,
   "shopGroupID": 101151,
   "shopType": 1,
   "shopGroupType": 8,
@@ -1973,8 +2057,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "48": {
-  "id": 48,
+ "50": {
+  "id": 50,
   "shopGroupID": 101201,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2015,8 +2099,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "49": {
-  "id": 49,
+ "51": {
+  "id": 51,
   "shopGroupID": 101211,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2057,8 +2141,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "50": {
-  "id": 50,
+ "52": {
+  "id": 52,
   "shopGroupID": 101221,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2099,8 +2183,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "51": {
-  "id": 51,
+ "53": {
+  "id": 53,
   "shopGroupID": 101231,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2141,8 +2225,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "52": {
-  "id": 52,
+ "54": {
+  "id": 54,
   "shopGroupID": 101241,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2183,8 +2267,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "53": {
-  "id": 53,
+ "55": {
+  "id": 55,
   "shopGroupID": 101301,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2225,8 +2309,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "54": {
-  "id": 54,
+ "56": {
+  "id": 56,
   "shopGroupID": 101311,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2267,8 +2351,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "55": {
-  "id": 55,
+ "57": {
+  "id": 57,
   "shopGroupID": 101321,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2309,8 +2393,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "56": {
-  "id": 56,
+ "58": {
+  "id": 58,
   "shopGroupID": 101331,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2351,8 +2435,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "57": {
-  "id": 57,
+ "59": {
+  "id": 59,
   "shopGroupID": 101341,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2393,8 +2477,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "58": {
-  "id": 58,
+ "60": {
+  "id": 60,
   "shopGroupID": 101401,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2435,8 +2519,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "59": {
-  "id": 59,
+ "61": {
+  "id": 61,
   "shopGroupID": 101411,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2477,8 +2561,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "60": {
-  "id": 60,
+ "62": {
+  "id": 62,
   "shopGroupID": 101421,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2519,8 +2603,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "61": {
-  "id": 61,
+ "63": {
+  "id": 63,
   "shopGroupID": 101431,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2561,8 +2645,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "62": {
-  "id": 62,
+ "64": {
+  "id": 64,
   "shopGroupID": 101441,
   "shopType": 1,
   "shopGroupType": 8,
@@ -2603,8 +2687,8 @@
   "showRewardIcon": "",
   "shopItemValue": "x4"
  },
- "63": {
-  "id": 63,
+ "65": {
+  "id": 65,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2645,8 +2729,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "64": {
-  "id": 64,
+ "66": {
+  "id": 66,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2687,8 +2771,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "65": {
-  "id": 65,
+ "67": {
+  "id": 67,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2729,8 +2813,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "66": {
-  "id": 66,
+ "68": {
+  "id": 68,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2771,8 +2855,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "67": {
-  "id": 67,
+ "69": {
+  "id": 69,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2813,8 +2897,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "68": {
-  "id": 68,
+ "70": {
+  "id": 70,
   "shopGroupID": 400100,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2855,8 +2939,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "69": {
-  "id": 69,
+ "71": {
+  "id": 71,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2897,8 +2981,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "70": {
-  "id": 70,
+ "72": {
+  "id": 72,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2939,8 +3023,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "71": {
-  "id": 71,
+ "73": {
+  "id": 73,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -2981,8 +3065,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "72": {
-  "id": 72,
+ "74": {
+  "id": 74,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3023,8 +3107,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "73": {
-  "id": 73,
+ "75": {
+  "id": 75,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3065,8 +3149,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "74": {
-  "id": 74,
+ "76": {
+  "id": 76,
   "shopGroupID": 400200,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3107,8 +3191,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "75": {
-  "id": 75,
+ "77": {
+  "id": 77,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3149,8 +3233,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "76": {
-  "id": 76,
+ "78": {
+  "id": 78,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3191,8 +3275,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "77": {
-  "id": 77,
+ "79": {
+  "id": 79,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
@@ -3233,8 +3317,8 @@
   "showRewardIcon": "",
   "shopItemValue": ""
  },
- "78": {
-  "id": 78,
+ "80": {
+  "id": 80,
   "shopGroupID": 400300,
   "shopType": 2,
   "shopGroupType": 20,
